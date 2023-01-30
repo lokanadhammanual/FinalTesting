@@ -5,5 +5,6 @@ public static void main(String[] args) {
 	System.out.println("ManualTest");
 	System.out.println("AutoTest");
 	System.out.println("DeskTest");
+	System.out.println("WebTest");
 }
 }
